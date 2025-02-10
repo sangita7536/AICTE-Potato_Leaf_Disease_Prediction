@@ -32,5 +32,11 @@ Before running the project, ensure you have the following installed:
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
- ```bash  
 pip install -r requirements.txt
+
+
+### Notes:
+- Replace `your-username` with your actual GitHub username.
+- Update the dataset link and directory structure if you're using a different dataset.
+- Customize the `predict.py`, `train.py`, and `evaluate.py` scripts based on your project's implementation.
+- Add any additional sections or details specific to your project.
